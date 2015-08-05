@@ -62,6 +62,7 @@
     "karma-growl-reporter": "^0.1.1",
     "karma-jasmine": "~0.2.0",
     "jasmine-core": "latest",
+    "karma-jasmine1-shim": "git://github.com/donataswix/karma-jasmine1-shim.git",
     "karma-ng-html2js-preprocessor": "^0.1.0",
     "karma-osx-reporter": "^0.2.0",
     "karma-phantomjs-launcher": "^0.2.0",
