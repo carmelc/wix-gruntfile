@@ -11,6 +11,7 @@ module.exports = function (config) {
   config.set({
     plugins: [
       'karma-jasmine',
+      'karma-jasmine1-shim',
       'karma-coverage',
       'karma-phantomjs-launcher',
       'karma-growl-reporter',
